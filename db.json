@@ -1,0 +1,196 @@
+{
+    "slides": [
+        {
+            "id": "1",
+            "image": "carousel1.jpg",
+            "type": "website",
+            "page": "home"
+        },
+        {
+            "id": "2",
+            "image": "carousel2.jpg",
+            "type": "website",
+            "page": "home"
+        },
+        {
+            "id": "3",
+            "image": "carousel3.jpg",
+            "type": "website",
+            "page": "home"
+        },
+        {
+            "id": "4",
+            "image": "carousel4.jpg",
+            "type": "website",
+            "page": "home"
+        },
+        {
+            "id": "5",
+            "image": "mobile-carousel1.jpg",
+            "type": "mobile",
+            "page": "home"
+        },
+        {
+            "id": "6",
+            "image": "mobile-carousel2.jpg",
+            "type": "mobile",
+            "page": "home"
+        },
+        {
+            "id": "7",
+            "image": "mobile-carousel3.jpg",
+            "type": "mobile",
+            "page": "home"
+        },
+        {
+            "id": "8",
+            "image": "mobile-carousel4.jpg",
+            "type": "mobile",
+            "page": "home"
+        }
+    ],
+    "packageTypes": [
+        {
+            "id": "1",
+            "title": "Xtra Combo Flex",
+            "fullDescription": "Beli Xtra Combo Flex, kamu bisa bebas pilih bonusnya. Aktifkan sekarang dan kamu bisa langsung mendapatkan Bonus Double Kuota Setahun Penuh setiap kali isi ulang paket data. Tonton video untuk ambil bonus kamu di Aplikasi myXL.",
+            "shortDescription": "Paket dengan banyak combo kuota dan berbagai bonus dengan Vidio Platinum 30 hari. Dapatkan harga spesial di myXL.",
+            "features": ["Kuota Utama", "Kuota Area", "Telpon Semua Operator", "WhatsApp, Line"]            
+        },
+        {
+            "id": "2",
+            "title": "Paket Akbar",
+            "fullDescription": "Paket Akrab, satu kuota untuk internetan sekeluarga. Kuota besar yang bisa dibagi-bagi dan BONUS kuota pribadi untuk tiap Anggota. Aktifkan Paket Akrab di aplikasi myXL dan mulai bagi kuota Paket Akrab bersama keluarga dan kerabat. Cek video lengkapnya.",
+            "shortDescription": "Paket dengan kuota besar yang dapat dibagi dengan keluarga/ teman yang menggunakan XL, XL PRIORITAS dan AXIS. Dan dapatkan harga spesial di myXL.",
+            "features": ["Total Kuota", "Kuota Pribadi", "Telpon Semua Operator", "Total Anggota", "Masa Aktif"]            
+        },
+        {
+            "id": "3",
+            "title": "Xtra Combo Mini",
+            "fullDescription": "Xtra Combo Mini kini sudah termasuk akses Vidio Platinum 30 hari. Kuota utama lebih besar anti hangus, internetan nyaman dengan akses langsung unlimited aplikasi produktivitas dan pilihan bonus kuota aplikasi. Makin lengkap dengan kuota nelpon ke semua operator.",
+            "shortDescription": "Pilih paket Xtra Combo Mini yang sesuai dengan kebutuhanmu.",
+            "features": ["Kuota Utama", "Youtube", "Kuota Area", "Masa Aktif"]             
+        },
+        {
+            "id": "4",
+            "title": "Xtra Kuota & Xtra Confrence",
+            "fullDescription": "Kuota utama lebih besar anti hangus, internetan nyaman dengan akses langsung unlimited aplikasi produktivitas dan pilihan bonus kuota aplikasi. Makin lengkap dengan kuota nelpon ke semua operator.",
+            "shortDescription": "Akses internet di jam produktifmu dengan paket Xtra Kuota Utama!",
+            "features": ["Kuota Utama", "Masa Berlaku"]             
+        }
+    ],
+    "packages": [
+        {
+            "id": "1",
+            "packageTypeId": "1",
+            "title": "Xtra Combo Flex S+",
+            "featuresValue": ["3 GB", "7 GB", "5 menit", "Bonus Chat"],
+            "price": "Rp 35.000"
+        },
+        {
+            "id": "2",
+            "packageTypeId": "1",
+            "title": "Xtra Combo Flex M",
+            "featuresValue": ["5 GB", "10 GB", "5 menit", "Bonus Chat"],
+            "price": "Rp 46.000"
+        },
+        {
+            "id": "3",
+            "packageTypeId": "1",
+            "title": "Xtra Combo Flex M+",
+            "featuresValue": ["6 GB", "12 GB", "5 menit", "Bonus Chat"],
+            "price": "Rp 50.000"
+        },
+        {
+            "id": "4",
+            "packageTypeId": "1",
+            "title": "Xtra Combo Flex L",
+            "featuresValue": ["9 GB", "18 GB", "5 menit", "Bonus Chat"],
+            "price": "Rp 60.000"
+        },
+        {
+            "id": "5",
+            "packageTypeId": "1",
+            "title": "Xtra Combo Flex L+",
+            "featuresValue": ["11 GB", "23 GB", "5 menit", "Bonus Chat"],
+            "price": "Rp 70.000"
+        },
+        {
+            "id": "6",
+            "packageTypeId": "2",
+            "title": "Akrab S",
+            "featuresValue": ["26 GB", "8 GB", "Unlimited", "2 orang", "30 hari"],
+            "price": "Rp 58.000"
+        },
+        {
+            "id": "7",
+            "packageTypeId": "2",
+            "title": "Akrab SM",
+            "featuresValue": ["38 GB", "11 GB", "Unlimited", "2 orang", "30 hari"],
+            "price": "Rp 78.000"
+        },
+        {
+            "id": "8",
+            "packageTypeId": "2",
+            "title": "Akrab M",
+            "featuresValue": ["59 GB", "17 GB", "Unlimited", "2 orang", "30 hari"],
+            "price": "Rp 110.000"
+        },
+        {
+            "id": "9",
+            "packageTypeId": "2",
+            "title": "Akrab L",
+            "featuresValue": ["129 GB", "28 GB", "Unlimited", "3 orang", "30 hari"],
+            "price": "Rp 180.000"
+        },
+        {
+            "id": "10",
+            "packageTypeId": "2",
+            "title": "Akrab XL",
+            "featuresValue": ["236 GB", "39 GB", "Unlimited", "4 orang", "30 hari"],
+            "price": "Rp 280.000"
+        },
+        {
+            "id": "11",
+            "packageTypeId": "3",
+            "title": "Xtra Combo Mini S",
+            "featuresValue": ["1 GB", "0.5 GB", "2.5 GB", "7 hari"],
+            "price": "Rp 9.000"
+        },
+        {
+            "id": "12",
+            "packageTypeId": "3",
+            "title": "Xtra Combo Mini SM",
+            "featuresValue": ["1.5 GB", "1 GB", "4 GB", "7 hari"],
+            "price": "Rp 14.000"
+        },
+        {
+            "id": "13",
+            "packageTypeId": "3",
+            "title": "Xtra Combo Mini M",
+            "featuresValue": ["2 GB", "2 GB", "6 GB", "7 hari"],
+            "price": "Rp 19.000"
+        },
+        {
+            "id": "14",
+            "packageTypeId": "3",
+            "title": "Xtra Combo Mini L",
+            "featuresValue": ["3 GB", "3 GB", "8.5 GB", "7 hari"],
+            "price": "Rp 24.000"
+        },
+        {
+            "id": "15",
+            "packageTypeId": "4",
+            "title": "Xtra Kuota Utama 1",
+            "featuresValue": ["2 GB", "12 Jam"],
+            "price": "Rp 4.000"
+        },
+        {
+            "id": "16",
+            "packageTypeId": "4",
+            "title": "Xtra Kuota Utama 2",
+            "featuresValue": ["2 GB", "24 Jam"],
+            "price": "Rp 6.000"
+        }
+    ]
+}

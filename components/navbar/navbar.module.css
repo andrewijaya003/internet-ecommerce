@@ -1,0 +1,27 @@
+.navbar {
+    padding: 0;
+    transition: top 0.2s ease-in-out;
+}
+
+.menu {
+    transition: 0.2s ease-in-out;
+}
+
+.menu:hover {
+    transform: scale(1.1) translateZ(0px);
+}
+
+.slide {
+    animation: burger 0.8s ease-in-out;
+}
+
+@keyframes burger {
+    from {
+        opacity: 0;
+        transform: translateX(-100%) translateZ(0px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0px) translateZ(0px);
+    }
+}
