@@ -11,7 +11,7 @@ export default function Home() {
 
 	return (
 		<main className="w-full m-auto">
-			<Carousel slides={slides} ></Carousel>
+			{/* <Carousel slides={slides} ></Carousel> */}
 		</main>
 	);
 }

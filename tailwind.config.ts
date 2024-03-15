@@ -15,17 +15,20 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
+    screens: {
+      'md': '920px'
+    }
   },
   plugins: [daisyui],
   daisyui: {
     themes: [
       {
         'cmyk': {
-           'primary' : '#44adee',
+           'primary' : '#002dbb',
            'primary-focus' : '#3999d5',
            'primary-content' : '#000000',
 
-           'secondary' : '#e74689',
+           'secondary' : '#00d2a0',
            'secondary-focus' : '#cd3c79',
            'secondary-content' : '#000000',
 

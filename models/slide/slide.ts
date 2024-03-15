@@ -1,4 +1,4 @@
-export interface Carousel {
+export interface Slide {
     id: string
     image: string
     type: string
